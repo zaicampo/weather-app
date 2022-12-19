@@ -70,3 +70,8 @@ h6 {
 button {
   padding: 50px auto;
 }
+
+p {
+  text-align: center;
+  color: #fff;
+}
